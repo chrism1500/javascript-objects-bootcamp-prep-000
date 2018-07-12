@@ -1,0 +1,6 @@
+var playlist = {
+  artist:
+  titles:
+  
+  
+}
